@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 partner: Royal Institute
 category: Hackathon
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Student hackathon competition to design a dream London in 2050 using open source tools like Open Street Map and A/B Street.
 ---
