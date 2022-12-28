@@ -30,6 +30,9 @@ footer:
   social: Around the Web
   credits: Credits
 
+# Credits content
+credits: 'Credits to this [Jekyll theme creator](https://github.com/jeromelachaud/freelancer-theme)'
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
