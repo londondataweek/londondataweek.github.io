@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cake.png
+alt: image-alt
+project-date: April 2014
+parnter: Westminster City Council
+category: Exhibition
+description: Data showcase of street market footfall dashboard, in partnership with King's College London.
+---
