@@ -39,6 +39,9 @@ social:
   - title: github
     url: https://github.com/londondataweek
 
+# Credits
+credits: TBA in January 2023
+
 # Build settings
 markdown: kramdown
 permalink: pretty
