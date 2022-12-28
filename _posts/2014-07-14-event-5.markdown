@@ -4,8 +4,8 @@ modal-id: 5
 date: 2014-07-14
 img: safe.png
 alt: image-alt
-project-date: April 2014
+project-date: July 7 2023
 partner: Knowledge Quarter
 category: debate
-description: Public debate on the Granary Square steps on the state of surveillance technology within London and what is of primary concern for Londoners in 2022 regarding government vs. corporate surveillance.
+description: Public debate on the Granary Square steps on the state of surveillance technology within London and what is of primary concern for Londoners in 2023 regarding government vs. corporate surveillance.
 ---
