@@ -4,7 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 alt: image-alt
-project-date: June 3-9 2023
+project-date: July 3-9 2023
 parnter: Westminster City Council
 category: Exhibition
 description: Data showcasing street market footfall dataset, highlighting most popular sweets & pastry locations over time, in partnership with King's College London.
