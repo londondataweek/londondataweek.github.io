@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 parnter: Westminster City Council
 category: Exhibition
-description: Data showcase of street market footfall dashboard, in partnership with King's College London.
+description: Data showcasing street market footfall dataset, highlighting most popular sweets & pastry locations over time, in partnership with King's College London.
 ---
