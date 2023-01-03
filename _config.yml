@@ -18,7 +18,7 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: D1E1E9
+  primary: C3D2D9
   primary-rgb: "24,288,156"
   secondary: 2c3e50 
   secondary-dark: 11181f 
