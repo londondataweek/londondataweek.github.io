@@ -5,7 +5,7 @@ date: 2014-07-18
 img: cabin.png
 alt: image-alt
 project-date: July 3 2023
-partner: Royal Institute
+partner: TBA
 category: Hackathon
 description: Student hackathon competition to design a dream London in 2050 using open source tools like Open Street Map and A/B Street.
 ---
