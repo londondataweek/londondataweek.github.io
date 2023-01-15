@@ -5,7 +5,7 @@ date: 2014-07-15
 img: submarine.png
 alt: image-alt
 project-date: July 3-9 2023
-partner: House of Annetta
+partner: TBA
 category: Exhibition
 description: Community art exhibit at House of Annetta exploring the boundaries between AR, VR, and IRL.
 ---
