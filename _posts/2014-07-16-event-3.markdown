@@ -7,5 +7,5 @@ alt: image-alt
 project-date: July 4 2023
 partner: TBA
 category: Show
-description: Cabaret of Dangerous Ideas focused on generative AI technologies like ChatGPT and DALLE.
+description: Comedy Show focused on generative AI technologies like ChatGPT and DALLE.
 ---
