@@ -5,7 +5,7 @@ date: 2014-07-15
 img: game.png
 alt: image-alt
 project-date: July 6 2023
-partner: Greater London Authority & LOTI
+partner: TBA
 category: Panel
 description: Pan-London citizen panel discussion on the new London Data Store and the risks & opportunities alongside.
 ---
