@@ -7,5 +7,5 @@ alt: image-alt
 project-date: July 3-9 2023
 parnter: TBA
 category: Exhibition
-description: Data showcasing street market footfall dataset, highlighting most popular sweets & pastry locations over time, in partnership with King's College London.
+description: Data showcasing street market footfall dataset, highlighting most popular sweets & pastry locations over time.
 ---
